@@ -1,5 +1,6 @@
 import React from 'react';
-import { Text,
+import {
+  Text,
   View,
   Image,
 } from 'react-native';
