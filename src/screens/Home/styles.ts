@@ -13,5 +13,12 @@ export const styles = StyleSheet.create({
     width: "100%",
     flexDirection: 'row',
     justifyContent:'space-between',
+  },
+  content:{
+    marginTop:42,
+  }, 
+  matches:{
+    marginTop:24,
+    marginLeft:24,
   }
 });
